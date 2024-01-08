@@ -1,0 +1,12 @@
+Web1
+- 핵심키워드를 알고, 해당 키워드 검색
+- 통계를 통한 학습 "frequency of xxx"
+  https://www.advancedwebranking.com/seo/html-study 
+- 닫지않는 태그 img, input, br, hr, meta 
+- br vs p 태그 -> p 태그 + css
+- img 태그와 src 속성
+- 코딩할때는 극단적으로 생각 -> 만약 목록이 3억개라면??
+  목록 ui unordered list, oi ordered list
+- "무료 정적 웹 호스팅 성공!!!"
+  free static web hosting - https://ggmlbp.github.io/webhosting/
+- 동적 -> php나 python, ruby, java / 유료
